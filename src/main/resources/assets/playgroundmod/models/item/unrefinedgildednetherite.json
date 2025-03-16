@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures":
   {
-    "layer0": "playgroundmod:item/ungild_netherite"
+    "layer0": "playgroundmod:item/unrefined_gilded_netherite"
   }
 }
