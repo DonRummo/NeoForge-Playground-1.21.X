@@ -1,5 +1,5 @@
 ## The Playground
-### This is an early stage development project that is actively being designed by a group of friends who are reworking Minecraft to be the game they imagine it to be
+### POOP
 
 ## In Progress
 - Bosses
