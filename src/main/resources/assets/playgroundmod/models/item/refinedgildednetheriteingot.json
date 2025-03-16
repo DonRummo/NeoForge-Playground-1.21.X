@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":
+  {
+    "layer0": "playgroundmod:item/refined_gilded_netherite_ingot"
+  }
+}

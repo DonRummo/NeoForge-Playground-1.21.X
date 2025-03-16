@@ -10,10 +10,10 @@ public class ModItems
 {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(PlaygroundMod.MOD_ID);
 
-    public static final DeferredItem<Item> GILDED_NETHERITE = ITEMS.register("gildednetherite",
+    public static final DeferredItem<Item> REFINED_GILDED_NETHERITE_INGOT = ITEMS.register("refinedgildednetheriteingot",
             () -> new Item(new Item.Properties()));
 
-    public static final DeferredItem<Item> UNREFINED_GILDED_NETHERITE = ITEMS.register("ungildnetherite",
+    public static final DeferredItem<Item> UNREFINED_GILDED_NETHERITE_INGOT = ITEMS.register("unrefinedgildednetheriteingot",
             () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus)
