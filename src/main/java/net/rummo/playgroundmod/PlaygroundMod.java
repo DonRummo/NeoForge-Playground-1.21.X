@@ -2,6 +2,7 @@ package net.rummo.playgroundmod;
 
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
+import net.rummo.playgroundmod.block.ModBlocks;
 import net.rummo.playgroundmod.item.ModItems;
 import org.slf4j.Logger;
 
@@ -42,6 +43,7 @@ public class PlaygroundMod
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -61,6 +63,11 @@ public class PlaygroundMod
         {
             event.accept(ModItems.GILDED_NETHERITE);
             event.accept(ModItems.UNREFINED_GILDED_NETHERITE);
+        }
+
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS)
+        {
+            event.accept(ModBlocks.GILDED_NETHERITE_BLOCK);
         }
     }
 

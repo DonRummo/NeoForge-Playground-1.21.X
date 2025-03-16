@@ -1,4 +1,6 @@
 {
   "item.playgroundmod.gildednetherite": "Gilded Netherite",
-  "item.playgroundmod.ungildnetherite": "Unrefined Gilded Netherite"
+  "item.playgroundmod.ungildnetherite": "Unrefined Gilded Netherite",
+
+  "block.playgroundmod.gilded_netherite_block": "Gilded Netherite Block"
 }
