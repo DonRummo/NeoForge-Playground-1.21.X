@@ -1,4 +1,13 @@
 {
   "item.playgroundmod.refinedgildednetheriteingot": "Refined Gilded Netherite Ingot",
-  "item.playgroundmod.unrefinedgildednetheriteingot": "Unrefined Gilded Netherite Ingot"
+  "item.playgroundmod.unrefinedgildednetheriteingot": "Unrefined Gilded Netherite Ingot",
+  "item.playgroundmod.diamond_beef": "Diamond Beef",
+  "item.playgroundmod.diamond_apple": "Diamond Apple",
+  "item.playgroundmod.diamond_carrot": "Diamond Carrot",
+  "item.playgroundmod.diamond_beetroot": "Diamond Beetroot",
+  "item.playgroundmod.diamond_salmon": "Diamond Salmon",
+  "item.playgroundmod.diamond_porkchop": "Diamond Porkchop",
+  "item.playgroundmod.golden_beetroot": "Golden Beetroot",
+  "item.playgroundmod.golden_porkchop": "Golden Porkchop",
+  "item.playgroundmod.golden_salmon": "Golden Salmon"
 }

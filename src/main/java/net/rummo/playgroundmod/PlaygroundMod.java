@@ -48,7 +48,6 @@ public class PlaygroundMod
     {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
         {
-            event.accept(ModItems.DIAMOND_BEEF);
             event.accept(ModItems.REFINED_GILDED_NETHERITE_INGOT);
             event.accept(ModItems.UNREFINED_GILDED_NETHERITE_INGOT);
         }
@@ -56,6 +55,19 @@ public class PlaygroundMod
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS)
         {
             event.accept(ModBlocks.GILDED_NETHERITE_BLOCK);
+        }
+
+        if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS)
+        {
+            event.accept(ModItems.DIAMOND_BEEF);
+            event.accept(ModItems.DIAMOND_APPLE);
+            event.accept(ModItems.DIAMOND_CARROT);
+            event.accept(ModItems.DIAMOND_BEETROOT);
+            event.accept(ModItems.DIAMOND_SALMON);
+            event.accept(ModItems.DIAMOND_PORKCHOP);
+            event.accept(ModItems.GOLDEN_BEETROOT);
+            event.accept(ModItems.GOLDEN_PORKCHOP);
+            event.accept(ModItems.GOLDEN_SALMON);
         }
     }
 
