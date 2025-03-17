@@ -1,7 +1,32 @@
 ### Modpack Details
 
 ## Item List
-- Refined Gilded Netherite Ingot
-- Unrefined Gilded Netherite Ingot
+- Diamond Apple (Food)
+- Diamond Baked Potato (Food)
+- Diamond Beetroot (Food)
+- Diamond Carrot (Food)
+- Diamond Cake (Food)
+- Diamond Chicken (Food)
+- Diamond Cookie (Food)
+- Diamond Pork (Food)
+- Diamond Salmon (Food)
+- Diamond Steak (Food)
+- Ball and Chain (Weapon)
+- Golden Baked Potato (Food)
+- Golden Beetroot (Food)
+- Golden Cake (Food)
+- Golden Chicken (Food)
+- Golden Cookie (Food)
+- Golden Pork (Food)
+- Golden Salmon (Food)
+- Golden Steak (Food)
+- Hook and Canon (Weapon)
+- Refined Gilded Netherite Block (Block)
+- Refined Gilded Netherite Boots (Armor)
+- Refined Gilded Netherite Chestplate (Armor)
+- Refined Gilded Netherite Helmet (Armor)
+- Refined Gilded Netherite Ingot (Material)
+- Refined Gilded Netherite Leggings (Armor)
+- Unrefined Gilded Netherite Ingot (Material)
 
 ## Boss Info
