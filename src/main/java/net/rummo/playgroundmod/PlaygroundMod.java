@@ -46,6 +46,7 @@ public class PlaygroundMod
     {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
         {
+            event.accept(ModItems.DIAMOND_BEEF);
             event.accept(ModItems.REFINED_GILDED_NETHERITE_INGOT);
             event.accept(ModItems.UNREFINED_GILDED_NETHERITE_INGOT);
         }
