@@ -1,13 +1,24 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "ingredients": [
-    {
+  "key": {
+    "U": {
       "item": "playgroundmod:unrefinedgildednetheriteingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
     }
+  },
+  "pattern": [
+    "UGU",
+    "GDG",
+    "UGU"
   ],
   "result": {
     "count": 1,
-    "item": "playgroundmod:refinedgildednetheriteingot"
+    "id": "playgroundmod:refinedgildednetheriteingot"
   }
 }

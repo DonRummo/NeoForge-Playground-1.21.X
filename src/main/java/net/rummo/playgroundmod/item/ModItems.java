@@ -20,4 +20,6 @@ public class ModItems
     {
         ITEMS.register(eventBus);
     }
+    public static final DeferredItem<Item> DIAMOND_BEEF = ITEMS.register("diamond_beef",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.DIAMONDSTEAK)));
 }
